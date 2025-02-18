@@ -1,0 +1,17 @@
+{
+  "name": "dotenv-format",
+  "version": "0.0.1",
+  "main": "dotenv-format.mjs",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UpstreetAI/dotenv-format.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UpstreetAI/dotenv-format/issues"
+  },
+  "homepage": "https://github.com/UpstreetAI/dotenv-format#readme",
+  "description": ""
+}
