@@ -1,5 +1,5 @@
 {
-  "name": "dotenv-format",
+  "name": "dotenv-formatter",
   "version": "0.0.1",
   "main": "dotenv-format.mjs",
   "type": "module",
